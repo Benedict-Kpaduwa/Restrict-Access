@@ -1,0 +1,15 @@
+{
+  "name": "ip",
+  "version": "1.0.0",
+  "description": "Limiting you API to be accessed by only one IP ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benedict Kpaduwa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "router": "^1.3.5"
+  }
+}
